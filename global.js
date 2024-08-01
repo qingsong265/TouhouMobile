@@ -228,7 +228,16 @@ var touhouMobile = {
             info : "很可爱的休闲小游戏，把各种角色合成翠香<br>",
             star : 4
         },
-
+        "琪露诺抓青蛙 ~ Cirno catch frogs" : {
+            url : "https://yuna0x0.itch.io/cirno-catch-frog/purchase",
+            info : "休闲游戏，控制baka冰冻青蛙(诹访子)<br>(进入网站后点击“No thanks, just take me to the downloads”下载)<br>",
+            star : 4
+        },
+        "多多良小伞的惊吓大作战" : {
+            url : "https://lever210.itch.io/tatara-kogasas-surprise-operation",
+            info : "小游戏，控制小伞吓唬路人以得到糖果<br>",
+            star : 4
+        }
     },
     
     暂未分类 : {
@@ -284,6 +293,6 @@ var touhouMobile = {
             url : "https://www.lanzouh.com/ishnY25szwud",
             info : "谷歌应用市场，非常重要的前置依赖库，部分游戏需要依赖此程序运行",
             star : 5
-         }
+        }
     }
 }
